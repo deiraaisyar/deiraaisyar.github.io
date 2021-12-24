@@ -1,0 +1,44 @@
+.logo {
+    width: 10%;
+    cursor: pointer;
+}  
+.navbar-nav a{
+    color: black !important;
+    font-weight: bold;
+}
+.righttop {
+    margin: 2%;
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+#paragraph {
+    padding-left: auto;
+    padding-left: 20px;
+    font-family: 'Calibri';
+}
+h3 {
+    margin: 0;
+    padding: 1%;
+    text-align: center;
+    color: black;
+    font-size: 200%;
+    font-family: 'Times New Roman'
+}
+.down {
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 80%;
+}
+button {
+    margin: 1%;
+    padding: 1%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 12px;
+}
